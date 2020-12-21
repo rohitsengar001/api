@@ -1,0 +1,2 @@
+- name: Create GitHub API Deployment
+  uses: abendigo/create-deployment@v1
